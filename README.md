@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 👋 I’m Meghna
+- I’m Meghna
 - 👀 I’m interested in Web and Software Development
 - 🌱 I’m currently a graduate Student at Northeastern University
 - 💞️ I’m looking to collaborate on interesting projects.

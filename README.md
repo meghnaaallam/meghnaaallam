@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+- 👋 I’m Meghna
+- 👀 I’m interested in Web and Software Development.
+- 🌱 I’m currently a graduate Student at Northeastern University
+- 💞️ I’m looking to collaborate on interesting projects.
+- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/meghnaallam
+
 <!--
 **meghnareddy1999/meghnareddy1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

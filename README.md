@@ -2,7 +2,7 @@
 
 
 - I’m Meghna (she/her)
-- 👀 I’m a passionate in Web Developer and love building things!
+- 👀 I’m a passionate Web Developer and love building things!
 - 🌱 I’m currently a graduate Student at Northeastern University
 - 💞️ Would love to discuss anything UI - React JS, CSS, Animation, UX Design
 - 🌻Fun fact about me: Give me any word and I will sing a song with it. Also a bad dancer and a pun entusiastic

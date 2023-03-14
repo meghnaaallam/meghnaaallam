@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 
-- I’m Meghna
-- 👀 I’m interested in Web and Software Development
+- I’m Meghna (she/her)
+- 👀 I’m a passionate in Web Developer and love building things!
 - 🌱 I’m currently a graduate Student at Northeastern University
-- 💞️ I’m looking to collaborate on interesting projects.
+- 💞️ Would love to discuss anything UI - React JS, CSS, Animation, UX Design
+- 🌻Fun fact about me: Give me any word and I will sing a song with it. Also a bad dancer and a pun entusiastic
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/meghnareddyallam/
 
 <!--

@@ -1,9 +1,9 @@
-### Hi there 👋
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
 - I’m Meghna (she/her)
 - 👀 I’m a passionate Web Developer and love building things!
-- 🌱 I’m currently a graduate Student at Northeastern University
+- 🌱 I’m currently a graduate Student at Northeastern University, Boston, MA
 - 💞️ Would love to discuss anything UI - React JS, CSS, Animation, UX Design
 - 🌻Fun fact about me: Give me any word and I will sing a song with it. Also a bad dancer and a pun entusiastic
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/meghnareddyallam/

@@ -6,7 +6,29 @@
 - 🌱 I’m currently a graduate Student at Northeastern University, Boston, MA
 - 💞️ Would love to discuss anything UI - React JS, CSS, Animation, UX Design
 - 🌻Fun fact about me: Give me any word and I will sing a song with it. Also a bad dancer and a pun entusiastic
-- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/meghnareddyallam/
+
+
+###  📫 How to reach me:
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-MeghnaAllam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meghnareddyallam/)](https://www.linkedin.com/in/meghnareddyallam/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rmeghana04@gmail.com)](mailto:rmeghana04@gmail.com)
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **meghnareddy1999/meghnareddy1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

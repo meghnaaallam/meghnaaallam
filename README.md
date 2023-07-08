@@ -4,7 +4,7 @@
 - I’m Meghna (she/her)
 - 👀 I’m a passionate Web Developer and love building things!
 - 🌱 I’m currently a graduate Student at Northeastern University, Boston, MA
-- 💞️ Would love to discuss anything UI - React JS, CSS, Animation, UX Design
+- 💞️ Would love to discuss anything UI - React JS, CSS, UX Design
 - 🌻Fun fact about me: Give me any word and I will sing a song with it. Bathroom dancer and a pun entusiastic
 
 

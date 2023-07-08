@@ -5,7 +5,7 @@
 - 👀 I’m a passionate Web Developer and love building things!
 - 🌱 I’m currently a graduate Student at Northeastern University, Boston, MA
 - 💞️ Would love to discuss anything UI - React JS, CSS, Animation, UX Design
-- 🌻Fun fact about me: Give me any word and I will sing a song with it. Also a bad dancer and a pun entusiastic
+- 🌻Fun fact about me: Give me any word and I will sing a song with it. Also a bathroom dancer and a pun entusiastic
 
 
 ###  📫 How to reach me:

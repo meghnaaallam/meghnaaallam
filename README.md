@@ -4,7 +4,7 @@ I’m **Meghna (she/her)** 🤗
 
 ![Hello-gif](https://media.giphy.com/media/cJSDRt8csBx0A7YFfh/giphy.gif)
 
-I’m a passionate product-minded Web Developer, who adores a good design and love developing one even more✨✨ 
+I’m a passionate product-minded Web Developer, who adores a good design and loves developing one even more✨✨ 
  
 I aim to build user-centric products! 🎯
 

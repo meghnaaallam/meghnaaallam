@@ -9,7 +9,7 @@ I'm pursuing my Master's degree in Information Systems from **Northeastern Unive
 
 > Previously, I worked with **Mindtree Solutions (now LITMindtree)** for 1.5 years in *building solutions for Fortune 500 clients on the Salesforce platform*
 
-I love a good design and love developing one even more✨✨ 
+I adore a good design and love developing one even more✨✨ 
 
 I am currently having fun exploring Cloud (Terraform) and GraphQL 👀
 

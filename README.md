@@ -2,7 +2,7 @@
 
 I’m **Meghna (she/her)** 🤗 
 
-![Hello-gif](https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif)
+![Hello-gif](https://media.giphy.com/media/cJSDRt8csBx0A7YFfh/giphy.gif)
 
 I’m a passionate product-minded Web Developer and I love building user-centric products! 🎯
 

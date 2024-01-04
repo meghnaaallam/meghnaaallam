@@ -4,15 +4,16 @@ I’m **Meghna (she/her)** 🤗
 
 ![Hello-gif](https://media.giphy.com/media/cJSDRt8csBx0A7YFfh/giphy.gif)
 
-I’m a passionate product-minded Web Developer and I love building user-centric products! 🎯
+I’m a passionate product-minded Web Developer, who adores a good design and love developing one even more✨✨ 
+ 
+I aim to build user-centric products! 🎯
 
-I'm pursuing my Master's degree in Information Systems from **Northeastern Univerity, Boston, MA** 👩🏽‍🎓(Expected graduation May'24) 🎓
+I'm currently pursuing my Master's degree in Information Systems from **Northeastern Univerity, Boston, MA** 👩🏽‍🎓(Expected graduation May'24) 🎓
 
 > Previously, I worked with **Mindtree Solutions (now LITMindtree)** for 1.5 years in *building solutions for Fortune 500 clients on the Salesforce platform*
 
-I adore a good design and love developing one even more✨✨ 
 
-I am currently having fun exploring Cloud (Terraform) and GraphQL 👀
+I am having fun exploring Cloud (Terraform) and GraphQL 👀
 
  Also, I'm **looking for full-time work opportunities starting May 2024 - June 2024** as a **Software Engineer**
 

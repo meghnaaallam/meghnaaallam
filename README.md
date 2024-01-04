@@ -13,7 +13,7 @@ I adore a good design and love developing one even more✨✨
 
 I am currently having fun exploring Cloud (Terraform) and GraphQL 👀
 
- I am also **looking for full-time work opportunities starting May 2024 - June 2024** as a **Software Engineer**
+ Also, I'm **looking for full-time work opportunities starting May 2024 - June 2024** as a **Software Engineer**
 
 **A few things I am good at** 💥
 > HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, MongoDB, Sequelize, Django REST, AWS, Hashicorp Packer, Pulumi, Java

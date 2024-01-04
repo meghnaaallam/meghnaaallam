@@ -1,46 +1,33 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+## Namasthe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
-- I’m Meghna (she/her)
-- 👀 I’m a passionate Web Developer and love building things!
-- 🌱 I’m currently a graduate Student at Northeastern University, Boston, MA
-- 💞️ Would love to discuss anything UI - React JS, CSS, UX Design
-- 🌻Fun fact about me: Give me any word and I will sing a song with it. Bathroom dancer and a pun entusiastic
+I’m **Meghna (she/her)** 🤗 
 
+I’m a passionate product-minded Web Developer and I love building user-centric products! 🎯
+
+I'm pursuing my Master's degree in Information Systems from **Northeastern Univerity, Boston, MA** 👩🏽‍🎓(Expected graduation May'24) 🎓
+
+> Previously, I worked with **Mindtree Solutions (now LITMindtree)** for 1.5 years in *building solutions for Fortune 500 clients on the Salesforce platform*
+
+I love a good design and love developing one even more✨✨ 
+
+I am currently having fun exploring Cloud (Terraform) and GraphQL 👀
+
+ I am also **looking for full-time work opportunities starting May 2024 - June 2024** as a **Software Engineer**
+
+**A few things I am good at** 💥
+> HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, MongoDB, Sequelize, Django REST, AWS, Hashicorp Packer, Pulumi, Java
+
+In my free time, I like to make side projects, read books, explore museums, cook, try out new coffee and occasionally hit the gym 😜
+
+**A few fun facts about me:**
+
+My friends tell me that I'm funny, give me any word and i'll come up with a song, a hard-core pun enthusiast
 
 ###  📫 How to reach me:
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-MeghnaAllam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meghnareddyallam/)](https://www.linkedin.com/in/meghnareddyallam/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rmeghana04@gmail.com)](mailto:rmeghana04@gmail.com)
 
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**meghnareddy1999/meghnareddy1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

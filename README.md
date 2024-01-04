@@ -1,7 +1,8 @@
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
 I’m **Meghna (she/her)** 🤗 
+
+![Hello-gif](https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif)
 
 I’m a passionate product-minded Web Developer and I love building user-centric products! 🎯
 

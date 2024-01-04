@@ -13,9 +13,9 @@ I'm currently pursuing my Master's degree in Information Systems from **Northeas
 > Previously, I worked with **Mindtree Solutions (now LITMindtree)** for 1.5 years in *building solutions for Fortune 500 clients on the Salesforce platform*
 
 
-I am having fun exploring Cloud (Terraform) and GraphQL 👀
+I am currently learning & exploring Cloud (Terraform) and GraphQL 👀
 
- Also, I'm **looking for full-time work opportunities starting May 2024 - June 2024** as a **Software Engineer**
+I'm also **looking for full-time work opportunities starting May 2024 - June 2024** as a **Software Engineer**
 
 **A few things I am good at** 💥
 > HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, MongoDB, Sequelize, Django REST, AWS, Hashicorp Packer, Pulumi, Java

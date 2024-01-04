@@ -8,7 +8,7 @@ I’m a passionate product-minded Web Developer, who adores a good design and lo
  
 I aim to build user-centric products! 🎯
 
-I'm currently pursuing my Master's degree in Information Systems from **Northeastern Univerity, Boston, MA** 👩🏽‍🎓(Expected graduation May'24)🎓
+I'm currently pursuing my Master's degree in Information Systems from **Northeastern Univerity, Boston, MA** 👩🏽‍🎓(Expected graduation May'24)
 
 > Previously, I worked with **Mindtree Solutions (now LITMindtree)** for 1.5 years in *building solutions for Fortune 500 clients on the Salesforce platform*
 

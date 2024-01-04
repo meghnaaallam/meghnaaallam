@@ -30,5 +30,4 @@ My friends tell me that I'm funny, give me any word and i'll come up with a song
 [![Linkedin Badge](https://img.shields.io/badge/-MeghnaAllam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meghnareddyallam/)](https://www.linkedin.com/in/meghnareddyallam/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rmeghana04@gmail.com)](mailto:rmeghana04@gmail.com)
 
- 
 

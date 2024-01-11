@@ -14,6 +14,7 @@ I'm currently pursuing my Master's degree in Information Systems from **Northeas
 
 
 I am currently learning & exploring Cloud (Terraform) and GraphQL 👀
+I am currently building a side project called **GoalIT** (cause new year, new me duhhh) Check it out [here](https://github.com/meghnaaallam/goalit-24)
 
 I'm also **looking for full-time work opportunities starting May 2024 - June 2024** as a **Software Engineer**
 

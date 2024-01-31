@@ -20,7 +20,7 @@ I am also building a side project called **GoalIT** 🚀 (cause new year, new me
 I'm also **looking for full-time work opportunities starting May 2024 - June 2024** as a **Software Engineer**
 
 **A few things I am good at** 💥
-> HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, MongoDB, Sequelize, Django REST, AWS, Hashicorp Packer, Pulumi, Java
+> HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, MongoDB, Sequelize, Django REST, AWS, Hashicorp Packer, Terraform, Pulumi, GraphQL, Java
 
 In my free time, I like to make side projects, read books, explore museums, cook, try out new coffee and occasionally hit the gym 😜
 

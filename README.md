@@ -10,7 +10,7 @@ I aim to build user-centric products! 🎯
 
 I'm currently pursuing my Master's degree in Information Systems from **Northeastern Univerity, Boston, MA** 👩🏽‍🎓(Expected graduation May'24)
 
-> Previously, I worked with **Mindtree Solutions (now LTIMindtree)** for 1.5 years in *building solutions for Fortune 500 clients on the Salesforce platform*
+> Previously, I worked with **Mindtree Solutions (now LTIMindtree)** for 1.5 years in *building solutions for Fortune 500 clients on several SaaS platforms*
 
 
 I am currently learning & exploring Cloud (Terraform) and GraphQL 👀

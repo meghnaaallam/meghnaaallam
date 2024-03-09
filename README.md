@@ -4,9 +4,9 @@ I’m **Meghna (she/her)** 🤗
 
 ![Hello-gif](https://media.giphy.com/media/cJSDRt8csBx0A7YFfh/giphy.gif)
 
-I’m a passionate product-minded Web Developer, who adores a good design and loves developing one even more✨✨ 
+I’m a passionate product-minded Full Stack Developer and a Cloud enthusiast 
  
-I aim to build user-centric products! 🎯
+I aim to build scalable, user-centric products! 🎯
 
 I'm currently pursuing my Master's degree in Information Systems from **Northeastern Univerity, Boston, MA** 👩🏽‍🎓(Expected graduation May'24)
 
@@ -26,7 +26,7 @@ In my free time, I like to make side projects, photography, read books, explore 
 
 **A few fun facts about me:**
 
-My friends tell me that I'm funny, give me any word and i'll come up with a song, bathroom dancer, a hard-core pun enthusiast
+My friends tell me that I'm funny, give me any word and I'll come up with a song, bathroom dancer, a hard-core pun enthusiast
 
 ###  📫 How to reach me:
 

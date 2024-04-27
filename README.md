@@ -26,7 +26,7 @@ In my free time, I like to make side projects, click pictures, read books, explo
 
 **A few fun facts about me:**
 
-My friends tell me that I'm funny, give me any word and I'll come up with a song, bathroom dancer, a hard-core pun enthusiast
+My friends tell me that I'm funny, give me any word and I'll come up with a song
 
 ###  📫 How to reach me:
 

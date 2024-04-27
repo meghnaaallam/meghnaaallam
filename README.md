@@ -17,7 +17,7 @@ I am currently learning & exploring Typescript and GraphQL 👀
 
 I am also building a side project called **GoalIT** 🚀 (cause new year, new me duhhh) Check it out [here](https://github.com/meghnaaallam/goalit-24)
 
-I'm also **looking for full-time work opportunities starting May 2024 - June 2024** as a **Software Engineer**
+I'm also **looking for full-time work opportunities starting May 2024 - June 2024** as a **Software Engineer/ Fullstack developer**
 
 **A few things I am good at** 💥
 > HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, MongoDB, Sequelize, Django REST, AWS, Hashicorp Packer, Terraform, Pulumi, GraphQL, Java

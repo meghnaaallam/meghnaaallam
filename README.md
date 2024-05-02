@@ -13,7 +13,7 @@ I'm currently pursuing my Master's degree in Information Systems from **Northeas
 > Previously, I have around 2 years of experience in *building solutions for Fortune 500 clients on several SaaS platforms*
 
 
-I am currently learning & exploring Typescript and GraphQL 👀
+I am currently learning & exploring Cloud and GraphQL 👀
 
 I am also building a side project called **GoalIT** 🚀 (cause new year, new me duhhh) Check it out [here](https://github.com/meghnaaallam/goalit-24)
 

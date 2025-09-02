@@ -1,26 +1,11 @@
-
-
 I’m **Meghna (she/her)** 🤗 
 
-![Hello-gif](https://media.giphy.com/media/cJSDRt8csBx0A7YFfh/giphy.gif)
+I’m a passionate product-minded developer who enjoys working at the intersection of `DevOps` and `software engineering`!
 
-I’m a passionate product-minded Full Stack Developer and a Cloud enthusiast 
- 
-I aim to build scalable, user-centric products! 🎯
-
-I'm currently pursuing my Master's degree in Information Systems from **Northeastern Univerity, Boston, MA** 👩🏽‍🎓(Expected graduation May'24)
-
-> Previously, I have around 2 years of experience in *building solutions for Fortune 500 clients on several SaaS platforms*
-
-
-I am currently learning & exploring Cloud and GraphQL 👀
-
-I am also building a side project called **GoalIT** 🚀 (cause new year, new me duhhh) Check it out [here](https://github.com/meghnaaallam/goalit-24)
-
-I'm also **looking for full-time work opportunities starting May 2024 - June 2024** as a **Software Engineer/ Fullstack developer**
+I have around 3 years of experience in *building and maintaining cloud-native infrastructure.*
 
 **A few things I am good at** 💥
-> HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, MongoDB, Sequelize, Django REST, AWS, Hashicorp Packer, Terraform, Pulumi, GraphQL, Java
+> AWS, GCP, Docker, Kubernetes, Python, JavaScript, Hashicorp Packer, Terraform, Istio, Pulumi, Grafana, Loki
 
 In my free time, I like to make side projects, click pictures, read books, explore museums, cook, try out new coffee and occasionally hit the gym 😜
 

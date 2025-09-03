@@ -5,7 +5,7 @@ I’m a passionate product-minded developer who enjoys working at the intersecti
 I have around 3 years of experience in *building and maintaining cloud-native infrastructure.*
 
 **A few things I am good at** 💥
-> AWS, GCP, Docker, Kubernetes, Python, JavaScript, Hashicorp Packer, Linux, Networking, Terraform, Istio, Pulumi, Grafana, Loki
+> AWS, GCP, Docker, Kubernetes, Python, JavaScript, Hashicorp Packer, Linux, Git, Github, Networking, Terraform, Istio, Pulumi, Grafana, Loki
 
 In my free time, I like to make side projects, click pictures, read books, explore museums, cook, try out new coffee and occasionally hit the gym 😜
 
